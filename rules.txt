@@ -1,0 +1,5 @@
+The way the frozen lake works is simple. There is a grid of squares,
+and you (or in this case the agent) starts in the top left square (0, 0).
+The goal is to get to the bottom right square of the grid (n-1, n-1).
+In each the square can either be frozen (safe to walk) or a hole (unsafe).
+You need to avoid the holes and get to the goal.
